@@ -1,0 +1,5 @@
+C:\Users\mrwge\Documents\anti gravity\claude\YoloMouseCs\obj\Release\net8.0-windows\YoloMouse.csproj.AssemblyReference.cache
+C:\Users\mrwge\Documents\anti gravity\claude\YoloMouseCs\obj\Release\net8.0-windows\YoloMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwge\Documents\anti gravity\claude\YoloMouseCs\obj\Release\net8.0-windows\YoloMouse.AssemblyInfoInputs.cache
+C:\Users\mrwge\Documents\anti gravity\claude\YoloMouseCs\obj\Release\net8.0-windows\YoloMouse.AssemblyInfo.cs
+C:\Users\mrwge\Documents\anti gravity\claude\YoloMouseCs\obj\Release\net8.0-windows\YoloMouse.csproj.CoreCompileInputs.cache
