@@ -1,5 +1,8 @@
 # YoloMouse (C#) PLEASE READ
 
+## 📁 Assets / Downloads
+All project files: [Google Drive Folder](https://drive.google.com/drive/folders/YOUR_ID)
+
 .NET / WinForms port of the tool. It captures the screen, detects an object
 with a **YOLOv10 `.onnx`** model, and moves the mouse onto it with adjustable
 **smoothing**. Same two output backends:
